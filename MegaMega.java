@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// I made this edit on Git Hub
 public class MegaMega {
 	static Scanner input = new Scanner(System.in);
 	
